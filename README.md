@@ -2,9 +2,8 @@
 
 Simple GPT is a delightful and efficient application that brings the power of OpenAI's GPT-3.5 to your fingertips. Crafted with love using React with Vite, adorned with the sleek aesthetics of TailwindCSS featuring DaisyUI, and spiced up with expressive icons from react-icons, this project also supports the elegant rendering of markdown with react-markdown.
 
-> a demo of the App
+> A demo of the App
 
-<!-- https://user-images.githubusercontent.com/26358650/212903093-08c58f9b-25b5-440d-89e7-7a4b1f36df5a.mp4 -->
 <img src="demo/demo.gif" width="800px" alt="android icon"/>
 
 </br>
