@@ -9,13 +9,17 @@ Simple GPT is a delightful and efficient application that brings the power of Op
 
 </br>
 
+![Screenshot 2024-01-18 111437](https://github.com/Syed1012/SimpleGPT/assets/84576013/d0b6f9d9-5854-4a15-9cf7-e14dc0aa207c)
+
+![Screenshot 2024-01-18 111422](https://github.com/Syed1012/SimpleGPT/assets/84576013/d01178df-5c40-4de0-80a8-7d181935a9d4)
+
 
 **Give it a ⭐ if you liked it 😜**
 
 
 ## Obtain OpenAI API key:
 
-1. Visit OpenAI to sign up for an API key. [ visit --> https://openai.com/ ]
+1. Visit OpenAI to sign up for an API key [ visit --> https://openai.com/ ] and click on login or register.
 2. Now, head for the API_Keys in the left side bar.
 3. Replace 'YOUR_API_KEY' in the code with your actual API key.
 
